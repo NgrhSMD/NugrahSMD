@@ -1,5 +1,5 @@
 {
-  "name": "Sadbot",
+  "name": "NgrhBOT",
   "version": "1.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan666/sadbot"
+     "url": "git+https://github.com/NgrhSMD/NugrahSMD.git"
   },
   "keywords": [
     "K"
   ],
-  "author": "nugra",
+  "author": "nugrah",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ramlan666/sadbot/issues"
+    "url": "https://github.com/NgrhSMD/NugrahSMD.git/issues"
   },
-  "homepage": "https://github.com/Ramlan666/sadbot#readme"
+  "homepage": "https://github.com/NgrhSMD/NugrahSMD.git#readme"
 }
