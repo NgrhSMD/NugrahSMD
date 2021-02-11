@@ -19,14 +19,14 @@ const apibarbar = 'YOUR_APIKEY'; // APIKEY MHANKBARBAR
 const tobzkey = 'YOUR_APIKEY'; // APIKEY TOBZ
 const vinzkey = 'YOUR_APIKEY'; // APIKEY ZEKS
 const BotName = 'NGRHBOT'; // GANTI PAKE NAMA BOT LU
-const wa = 'https://chat.whatsapp.com/CWAuPehYPZPAFslGN2by79'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
+const wa = 'https://chat.whatsapp.com/CxiRV0DgWDvKZS77hzNlgd'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
 const ow = 'Nugrah'; // GANTI PAKE NAMA MU
 const nomorowner = '081257489859'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
 const ovo = '0812-5748-9859'; // GANTI PAKE NOMOR OVO LU
 const pulsa = '0812-5748-9859'; // GANTI PAKE NOMOR PULSA LU
 const dana = '0812-5748-9859'; // GANTI PAKE NOMOR DANA LU
 const gopay = '0812-5748-9859'; // GANTI PAKE NOMOR GOPAY LU
-const instagram = 'http://www.instagram.com/iamramlan_'; // GANTI IG LU
+const instagram = 'http://www.instagram.com/nugrahsemed'; // GANTI IG LU
 const aktif = '00:00 - 00:00'; // TERSERAH LU DAH INI
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n' // MAU NGAPAIN TOD
@@ -405,7 +405,7 @@ Note : Sisanya gunain otak kalian aja cape w jelasin :)
 ╠═══════════════════════════
 ║➣ *JIKA MINAT IKLAN DIATAS*
 ║➣ *HARAP HUBUNGI NOMOR DIBAWAH :*
-║➣ *☎️ WA : *085559240360*
+║➣ *☎️ WA : *081257489859*
 
 🔰 -----[ *POWERED BY NGRHSMD* ]----- 🔰`,
       contextInfo: { mentionedJid: [nomor] }
